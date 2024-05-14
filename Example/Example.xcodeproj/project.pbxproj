@@ -151,16 +151,16 @@
 		948848532743ADF600D8B40C /* Example */ = {
 			isa = PBXGroup;
 			children = (
-				948848542743ADF600D8B40C /* RenderModelSelectionViewController.swift */,
-				9488485A2743ADF600D8B40C /* WsneakersSDKViewController.swift */,
+				948848642743ADF600D8B40C /* Info.plist */,
 				9488485B2743ADF600D8B40C /* Assets.xcassets */,
 				9488485C2743ADF600D8B40C /* LaunchScreen.storyboard */,
 				9488485E2743ADF600D8B40C /* Main.storyboard */,
+				948848542743ADF600D8B40C /* RenderModelSelectionViewController.swift */,
+				9488485A2743ADF600D8B40C /* WsneakersSDKViewController.swift */,
 				948848602743ADF600D8B40C /* WannaSDKDefaults.swift */,
 				948848612743ADF600D8B40C /* NavigationViewController.swift */,
 				948848622743ADF600D8B40C /* AppDelegate.swift */,
 				948848632743ADF600D8B40C /* DeviceCheckingViewController.swift */,
-				948848642743ADF600D8B40C /* Info.plist */,
 				948848652743ADF600D8B40C /* WsneakersGeneralViewController.swift */,
 			);
 			path = Example;
@@ -278,6 +278,7 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = YFC8T83VYG;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -563,7 +564,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 507;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = YFC8T83VYG;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -585,7 +586,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 507;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = YFC8T83VYG;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Example/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
